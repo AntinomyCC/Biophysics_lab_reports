@@ -1,0 +1,14 @@
+Protein Sequence 1
+
+TVGWIAHWSEMHSDGMK
+
+Protein Sequence 2
+
+AMGIPSSMFTVIFAMAR 
+
+reverse Protein Sequence 2
+
+RAMAFIVTFMSSPIGMA
+
+EC Number for 2-Methyl Citrate Synthase : 2.3.3.5
+

@@ -1,0 +1,10 @@
+https://www.brenda-enzymes.info/enzyme.php?ecno=2.3.3.5#printtable
+
+a) transferase from PDB entry 
+b)the measured ranges for pH are 5.5 to 10.5 the temperature ranges are from 10 to 90 degrees, there is a range of specific activity which goes form 48 to 0.002, for E.Coli 0.33
+
+
+e) The ranges of the KM on acetyl-CoA are from 0.00126 to 0.35
+f) the pH optimum  relates to the enzyme mechanism and structure because enzyme structure is directly related to the pH of the solution around it, different pH could cause the enzyme to unfold or to increase the hydrophobicity of the enzyme making it structurally immobile. This results in a change of the efficiency of the enzyme .
+
+g) Acetyil-CoA and Propionyl-CoA are competitive Inhibitors with a similar structure to the substrate which is CoA
