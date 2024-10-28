@@ -1,5 +1,6 @@
-# Biophysics lab reports
-Here are the lab reports of the [University Ulm biophysics lab courses](https://www.uni-ulm.de/nawi/international-masters-degree-programmes/current-students/biophysics/biophysicslab/). All labs and reports are done by [Nicolae Turcan](<nicolae.turcan@uni-ulm.de>) and [Haiyang Zhang](<haiyang.zhang@uni-ulm.de>) together. This page contains the [pdf version](Reports/) and the [original latex codes](Original%20latex%20codes/) of the reports.  
+# Biophysics Lab Reports
+
+Here are the lab reports from the [University of Ulm Biophysics Lab courses](https://www.uni-ulm.de/nawi/international-masters-degree-programmes/current-students/biophysics/biophysicslab/). All labs and reports were completed collaboratively by Nicolae Turcan (<nicolae.turcan@uni-ulm.de>) and Haiyang Zhang (<haiyang.zhang@uni-ulm.de>). This page includes the [PDF versions](Reports/) and the [original LaTeX codes](Original%20latex%20codes/) of the reports.
 
 **Here are the list of the labs**  
 
