@@ -3,4 +3,4 @@ Here are the lab reports of the [University Ulm biophysics lab courses](https://
 
 **Here are some breif introductions of the labs**  
 
--[Atomic force microscopy](Reports/1.Atmoic%20force%20microscopy)
+-[Atomic force microscopy](Reports/1.Atmoic%20force%20microscopy.pdf)
